@@ -2,3 +2,4 @@ add
 edited in local
 fetch Test
 remote
+local
